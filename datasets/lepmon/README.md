@@ -44,3 +44,13 @@ Alle files for the different tables in json and csv format:
 
 ## lepmon webpage
 [https://lepmon.de/en/lepmon-en/](https://lepmon.de/en/lepmon-en/)
+
+## attendees
+Peter Grobe
+Dennis Böttger
+
+
+## further resources
+ARNI firmware: [https://github.com/DesBoe/LepmonOS](https://github.com/DesBoe/LepmonOS)
+LAUP Webpage [https://gitlab.leibniz-lib.de/lepmon/laup](https://gitlab.leibniz-lib.de/lepmon/laup)
+
